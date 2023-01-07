@@ -1,5 +1,5 @@
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-
+import{Dimensions} from"react-native"
 //Screens
 import Login from "../Screens/Login";
 import { AppTab } from './tab';
